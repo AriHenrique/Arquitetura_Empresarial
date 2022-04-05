@@ -1,15 +1,15 @@
 # Arquitetura_Empresarial
 Estudo de Caso de Arquitetura Empresarial
 
-Aristides Henrique​321223036
+Aristides Henrique RA: 321223036
 
-Gustavo Henrique​32013373
+Gustavo Henrique RA: 32013373
 
-Gustavo Meireles​322119549
+Gustavo Meireles RA: 322119549
 
-Marcelo Pereira​321141779
+Marcelo Pereira RA: 321141779
 
-Matheus Esteves​321220474
+Matheus Esteves RA: 321220474
 
 doc https://docs.google.com/document/d/1Oxxsirap8dOU0GsRmyzH0D7MatZphXWXmxSZF-xfv6k/edit
 

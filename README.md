@@ -11,7 +11,7 @@ Marcelo Pereira RA: 321141779
 
 Matheus Esteves RA: 321220474
 
-doc https://docs.google.com/document/d/1Oxxsirap8dOU0GsRmyzH0D7MatZphXWXmxSZF-xfv6k/edit
+doc https://docs.google.com/document/d/1Oxxsirap8dOU0GsRmyzH0D7MatZphXWXmxSZF-xfv6k/edit?usp=sharing
 
-slide Fedex https://1drv.ms/p/s!As1J2xZckIOhtmdNC-M_nLr2QlWX?e=Dh2sSr
+slide Fedex https://1drv.ms/p/s!As1J2xZckIOhtl9FflK6A-BTtfgG?e=HduaGG
 

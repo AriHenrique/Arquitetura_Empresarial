@@ -7,8 +7,6 @@ Gustavo Henrique RA: 32013373
 
 Gustavo Meireles RA: 322119549
 
-Marcelo Pereira RA: 321141779
-
 Matheus Esteves RA: 321220474
 
 doc https://docs.google.com/document/d/1Oxxsirap8dOU0GsRmyzH0D7MatZphXWXmxSZF-xfv6k/edit?usp=sharing
